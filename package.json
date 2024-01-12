@@ -1,0 +1,12 @@
+{
+  "name": "typescript_simple_template",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "out/index.js",
+  "scripts": {
+    "build": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
